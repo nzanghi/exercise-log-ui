@@ -1,0 +1,28 @@
+.journal-entry {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.finish-buttons-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px 0;
+}
+
+.exercise-table-button-group {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.MuiAccordion-root {
+  width: 100vw;
+}
+
+.MuiAccordion-region {
+  text-align: center;
+}
+
+.MuiDataGrid-columnHeaderTitle {
+  text-overflow: clip !important;
+}

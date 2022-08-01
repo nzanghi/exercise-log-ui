@@ -1,0 +1,12 @@
+.journal-header {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin-top: 10px;
+  row-gap: 10px;
+  justify-items: center;
+}
+
+.journal-add-button {
+  margin-bottom: 15px !important;
+  width: 250px;
+}
